@@ -1,0 +1,7 @@
+D:\Mphasis\GIT\Git\Git\bin\Debug\Git.exe.config
+D:\Mphasis\GIT\Git\Git\bin\Debug\Git.exe
+D:\Mphasis\GIT\Git\Git\bin\Debug\Git.pdb
+D:\Mphasis\GIT\Git\Git\obj\Debug\Git.csproj.AssemblyReference.cache
+D:\Mphasis\GIT\Git\Git\obj\Debug\Git.csproj.CoreCompileInputs.cache
+D:\Mphasis\GIT\Git\Git\obj\Debug\Git.exe
+D:\Mphasis\GIT\Git\Git\obj\Debug\Git.pdb
