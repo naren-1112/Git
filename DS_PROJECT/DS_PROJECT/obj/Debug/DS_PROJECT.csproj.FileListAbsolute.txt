@@ -1,0 +1,7 @@
+D:\Mphasis\Simplilearn\DS_PROJECT\DS_PROJECT\bin\Debug\DS_PROJECT.exe.config
+D:\Mphasis\Simplilearn\DS_PROJECT\DS_PROJECT\bin\Debug\DS_PROJECT.exe
+D:\Mphasis\Simplilearn\DS_PROJECT\DS_PROJECT\bin\Debug\DS_PROJECT.pdb
+D:\Mphasis\Simplilearn\DS_PROJECT\DS_PROJECT\obj\Debug\DS_PROJECT.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\DS_PROJECT\DS_PROJECT\obj\Debug\DS_PROJECT.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\DS_PROJECT\DS_PROJECT\obj\Debug\DS_PROJECT.exe
+D:\Mphasis\Simplilearn\DS_PROJECT\DS_PROJECT\obj\Debug\DS_PROJECT.pdb
