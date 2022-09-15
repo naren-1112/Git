@@ -1,0 +1,7 @@
+D:\Mphasis\Simplilearn\PHASE 2 PROJECT\PHASE_2\PHASE_2\bin\Debug\PHASE_2.exe.config
+D:\Mphasis\Simplilearn\PHASE 2 PROJECT\PHASE_2\PHASE_2\bin\Debug\PHASE_2.exe
+D:\Mphasis\Simplilearn\PHASE 2 PROJECT\PHASE_2\PHASE_2\bin\Debug\PHASE_2.pdb
+D:\Mphasis\Simplilearn\PHASE 2 PROJECT\PHASE_2\PHASE_2\obj\Debug\PHASE_2.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\PHASE 2 PROJECT\PHASE_2\PHASE_2\obj\Debug\PHASE_2.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\PHASE 2 PROJECT\PHASE_2\PHASE_2\obj\Debug\PHASE_2.exe
+D:\Mphasis\Simplilearn\PHASE 2 PROJECT\PHASE_2\PHASE_2\obj\Debug\PHASE_2.pdb
