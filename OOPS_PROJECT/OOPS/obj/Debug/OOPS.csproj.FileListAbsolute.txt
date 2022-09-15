@@ -1,0 +1,6 @@
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS\bin\Debug\OOPS.dll
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS\bin\Debug\OOPS.pdb
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS\obj\Debug\OOPS.dll
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS\obj\Debug\OOPS.pdb

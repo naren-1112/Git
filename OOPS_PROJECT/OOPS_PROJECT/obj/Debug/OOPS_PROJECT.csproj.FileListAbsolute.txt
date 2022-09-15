@@ -1,0 +1,10 @@
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\bin\Debug\OOPS_PROJECT.exe.config
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\bin\Debug\OOPS_PROJECT.exe
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\bin\Debug\OOPS_PROJECT.pdb
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\obj\Debug\OOPS_PROJECT.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\obj\Debug\OOPS_PROJECT.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\obj\Debug\OOPS_PROJECT.exe
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\obj\Debug\OOPS_PROJECT.pdb
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\bin\Debug\OOPS.dll
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\bin\Debug\OOPS.pdb
+D:\Mphasis\Simplilearn\OOPS_PROJECT\OOPS_PROJECT\obj\Debug\OOPS_PROJECT.csproj.CopyComplete
