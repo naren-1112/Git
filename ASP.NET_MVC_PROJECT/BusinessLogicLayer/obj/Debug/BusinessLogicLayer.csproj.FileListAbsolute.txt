@@ -1,0 +1,5 @@
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

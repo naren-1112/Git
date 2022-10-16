@@ -1,0 +1,11 @@
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\obj\Debug\HELPER.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\obj\Debug\HELPER.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\bin\Debug\HELPER.dll
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\bin\Debug\HELPER.pdb
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\bin\Debug\BusinessLogicLayer.dll
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\bin\Debug\DataAccessLayer.dll
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\bin\Debug\BusinessLogicLayer.pdb
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\bin\Debug\DataAccessLayer.pdb
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\obj\Debug\HELPER.csproj.CopyComplete
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\obj\Debug\HELPER.dll
+D:\Mphasis\Simplilearn\ASP.NET_MVC_PROJECT\HELPER\obj\Debug\HELPER.pdb
