@@ -1,0 +1,11 @@
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\bin\Debug\HelperLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\bin\Debug\HelperLib.pdb
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\obj\Debug\HelperLib.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\obj\Debug\HelperLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\obj\Debug\HelperLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\obj\Debug\HelperLib.pdb
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\bin\Debug\BalLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\bin\Debug\DalLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\bin\Debug\BalLib.pdb
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\bin\Debug\DalLib.pdb
+D:\Mphasis\Simplilearn\WebApiProject\HelperLib\obj\Debug\HelperLib.csproj.CopyComplete

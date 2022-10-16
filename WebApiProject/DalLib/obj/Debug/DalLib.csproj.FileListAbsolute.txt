@@ -1,0 +1,9 @@
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\bin\Debug\DalLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\bin\Debug\DalLib.pdb
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\obj\Debug\DalLib.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\obj\Debug\DalLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\obj\Debug\DalLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\obj\Debug\DalLib.pdb
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\bin\Debug\BalLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\bin\Debug\BalLib.pdb
+D:\Mphasis\Simplilearn\WebApiProject\DalLib\obj\Debug\DalLib.csproj.CopyComplete

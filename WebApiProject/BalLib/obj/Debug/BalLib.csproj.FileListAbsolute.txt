@@ -1,0 +1,6 @@
+D:\Mphasis\Simplilearn\WebApiProject\BalLib\bin\Debug\BalLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\BalLib\bin\Debug\BalLib.pdb
+D:\Mphasis\Simplilearn\WebApiProject\BalLib\obj\Debug\BalLib.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\WebApiProject\BalLib\obj\Debug\BalLib.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\WebApiProject\BalLib\obj\Debug\BalLib.dll
+D:\Mphasis\Simplilearn\WebApiProject\BalLib\obj\Debug\BalLib.pdb
