@@ -1,0 +1,15 @@
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\EntityFramework.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\BusinessLogicLayer.dll.config
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\EntityFramework.xml
+D:\Mphasis\Simplilearn\EmsFullStackApp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml

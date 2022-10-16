@@ -1,0 +1,12 @@
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll.config
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\bin\Debug\EntityFramework.xml
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mphasis\Simplilearn\EmsFullStackApp\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
