@@ -1,0 +1,17 @@
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\NUnit3.TestAdapter.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\nunit.engine.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\nunit.engine.api.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\nunit.engine.core.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\testcentric.engine.metadata.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\UnitTestingTests.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\UnitTestingTests.pdb
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\nunit.framework.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\UnitTestingProject.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\nunit.framework.xml
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\bin\Debug\UnitTestingProject.pdb
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\obj\Debug\UnitTestingTests.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\obj\Debug\UnitTestingTests.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\obj\Debug\UnitTestingTests.csproj.CopyComplete
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\obj\Debug\UnitTestingTests.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingTests\obj\Debug\UnitTestingTests.pdb

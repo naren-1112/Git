@@ -1,0 +1,5 @@
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingProject\bin\Debug\UnitTestingProject.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingProject\bin\Debug\UnitTestingProject.pdb
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingProject\obj\Debug\UnitTestingProject.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingProject\obj\Debug\UnitTestingProject.dll
+D:\Mphasis\Simplilearn\UnitTestingProject\UnitTestingProject\obj\Debug\UnitTestingProject.pdb
