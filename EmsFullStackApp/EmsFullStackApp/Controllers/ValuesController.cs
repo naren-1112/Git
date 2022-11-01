@@ -22,8 +22,7 @@ namespace EmsFullStackApp.Controllers
         [HttpGet]
         public List<empmodel> Get()
         {
-            //return new string[] { "value1", "value2" };
-
+            
             List<EmpProfiles> empbal = new List<EmpProfiles>(); empbal = obj.GetCustomers();
             List<empmodel> emps = new List<empmodel>();
             foreach (var item in empbal)
@@ -34,7 +33,6 @@ namespace EmsFullStackApp.Controllers
                     EmpCode = item.EmpCode,
                     Email = item.Email,
                     EmpName = item.EmpName,
-                    //    DateOfBirth = item.DateOfBirth,
                     DeptCode = item.DeptCode
                 });
             }

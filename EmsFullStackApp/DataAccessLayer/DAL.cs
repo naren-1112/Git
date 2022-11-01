@@ -56,13 +56,13 @@ namespace DataAccessLayer
             public void Insertcustomer(EmpProfiles bal)
             {
                 MyContext context = new MyContext();
-                EmpProfiles c = new EmpProfiles();
-                c.EmpCode = bal.EmpCode;
-                c.EmpName = bal.EmpName;
-                c.Email = bal.Email;
+                EmpProfiles i = new EmpProfiles();
+                i.EmpCode = bal.EmpCode;
+                i.EmpName = bal.EmpName;
+                i.Email = bal.Email;
 
-                c.DeptCode = bal.DeptCode;
-                context.emptable.Add(c);
+                i.DeptCode = bal.DeptCode;
+                context.emptable.Add(i);
                 context.SaveChanges();
 
             }
@@ -70,13 +70,13 @@ namespace DataAccessLayer
             {
                 MyContext context = new MyContext();
                 List<EmpProfiles> customers = context.emptable.ToList();
-                EmpProfiles obj
+                EmpProfiles u
                     = customers.Find(cust => cust.EmpCode == bal.EmpCode);
-                obj.EmpCode = bal.EmpCode;
-                obj.EmpName = bal.EmpName;
-                obj.Email = bal.Email;
+                u.EmpCode = bal.EmpCode;
+                u.EmpName = bal.EmpName;
+                u.Email = bal.Email;
 
-                obj.DeptCode = bal.DeptCode;
+                u.DeptCode = bal.DeptCode;
             
             context.SaveChanges();
 
@@ -98,15 +98,15 @@ namespace DataAccessLayer
                 var obj = customers.Find(cust => cust.EmpCode == id);
 
                 // List<BLClass1> cblist = new List<BLClass1>();
-                EmpProfiles b = new EmpProfiles();
-                b.EmpName = obj.EmpName;
-                b.EmpCode = obj.EmpCode;
-                b.Email = obj.Email;
-                b.DeptCode = obj.DeptCode;
+                EmpProfiles s= new EmpProfiles();
+                s.EmpName = obj.EmpName;
+                s.EmpCode = obj.EmpCode;
+                s.Email = obj.Email;
+                s.DeptCode = obj.DeptCode;
 
 
 
-                return b;
+                return s;
 
                 //context.SaveChanges();
             }
