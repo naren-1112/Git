@@ -1,0 +1,9 @@
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\bin\Debug\BusinessLayer.dll
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\bin\Debug\BusinessLayer.pdb
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Mphasis\Simplilearn\WebFormProject\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

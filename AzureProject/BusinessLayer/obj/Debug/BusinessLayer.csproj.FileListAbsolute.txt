@@ -1,0 +1,5 @@
+D:\Mphasis\Simplilearn\WebFormProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Mphasis\Simplilearn\WebFormProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Mphasis\Simplilearn\WebFormProject\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Mphasis\Simplilearn\WebFormProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Mphasis\Simplilearn\WebFormProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
